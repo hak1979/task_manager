@@ -1,0 +1,65 @@
+Users Overview Report
+_____________________________________________________________________
+
+Admin's Overview Report
+
+The total number of tasks assigned:    2
+The percentage of tasks assigned:      40.00%
+The percentage of complete tasks:      50.00%
+The percentage of tasks incomplete:    50.00%
+The percentage of overdue tasks:       50.00%
+_____________________________________________________________________
+
+Hakan's Overview Report
+
+The total number of tasks assigned:    1
+The percentage of tasks assigned:      20.00%
+The percentage of complete tasks:      100.00%
+The percentage of tasks incomplete:    0.00%
+The percentage of overdue tasks:       0.00%
+_____________________________________________________________________
+
+Ebru's Overview Report
+
+The total number of tasks assigned:    1
+The percentage of tasks assigned:      20.00%
+The percentage of complete tasks:      0.00%
+The percentage of tasks incomplete:    100.00%
+The percentage of overdue tasks:       0.00%
+_____________________________________________________________________
+
+James's Overview Report
+
+The total number of tasks assigned:    0
+The percentage of tasks assigned:      0.00%
+The percentage of complete tasks:      0.00%
+The percentage of tasks incomplete:    0.00%
+The percentage of overdue tasks:       0.00%
+_____________________________________________________________________
+
+David's Overview Report
+
+The total number of tasks assigned:    0
+The percentage of tasks assigned:      0.00%
+The percentage of complete tasks:      0.00%
+The percentage of tasks incomplete:    0.00%
+The percentage of overdue tasks:       0.00%
+_____________________________________________________________________
+
+Zak's Overview Report
+
+The total number of tasks assigned:    0
+The percentage of tasks assigned:      0.00%
+The percentage of complete tasks:      0.00%
+The percentage of tasks incomplete:    0.00%
+The percentage of overdue tasks:       0.00%
+_____________________________________________________________________
+
+Dan's Overview Report
+
+The total number of tasks assigned:    1
+The percentage of tasks assigned:      20.00%
+The percentage of complete tasks:      0.00%
+The percentage of tasks incomplete:    100.00%
+The percentage of overdue tasks:       0.00%
+_____________________________________________________________________

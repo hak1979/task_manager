@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2022, 10 Dec 2022, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2022, 11 Oct 2023, Yes
+hakan, Induction for new users, Create a document for the new user induction, 16 Dec 2022, 10 Mar 2023, Yes
+ebru, test title, this is a description, 26 Dec 2022, 22 May 2023, No
+dan, dan's task, he needs to do it, 27 Dec 2022, 02 Aug 2023, No
