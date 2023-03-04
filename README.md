@@ -45,3 +45,47 @@ When a new user is registered the details are written on the users.txt file. As 
 the tasks.txt file. The main input/output mechanism of data is driven by file read and write operations. 
 
 ## How the program was improved
+The original program was enhanced by adding new functionality. In addition to all the options in the orignal
+program, the admin now can view an enhaced version of the statistics, generate reports for the tasks and user tasks
+statistics in two seperate files task_overview.txt and user_overview.txt respectively. Registering new users is also
+restricted to the admin. The admin is also able to reset the database to it's original form (if too many entries
+are made when trying the system out, this is a quick way to load the original database.)
+
+The new menu screen:
+
+![menu screen](/Improved/images/menu.jpg)
+
+An exmaple how how the statistics are viewed now:
+
+![statistics screen](/Improved/images/statistics.jpg)
+
+As it can be seen from the two screenshots, not the statics are more comprehensive and gives detailed information per user. 
+
+One of the biggest changes made was that intsead of using text files to store and read data from, now it is driven by a database;
+task_db. The database runs on SQLite. 
+
+The data is now stored on three realtional tables:
+
+&ensp;&ensp; users table-> user_id, user_name, user_password
+
+&ensp;&ensp; tasks table-> task_id, task_title, task_description, assign_date, due_date
+
+&ensp;&ensp; tasks_assigned-> task_id, user_id, task_complete.
+
+The passwords are now hashed/encryted and stored in the table for security.
+
+# Running the program
+Before the programs are run ensure that sqlite3 and passlib libraries are installed in your python environment. 
+
+To be able to log into the programs the usernames and passwords are in the users.txt file - it is an exmaple afterall!
+
+Run the programs from their respective directories by typing python task_manager.py or pyhon task_manager2.py
+
+Follow the on screen instructions to log in, and try out the different menu items.
+
+
+
+
+
+
+
