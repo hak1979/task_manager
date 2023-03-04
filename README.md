@@ -1,4 +1,4 @@
-# A program for a small busoness to manage tasks
+# A program for a small business to manage tasks
 This program is designed in mind for a small business, with a few employees, wehre
 the tasks assigned to each employee can be managed.
 
